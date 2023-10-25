@@ -8,8 +8,8 @@ export const development = {
   client: 'mysql2',
   connection: {
     database: 'farmacia',
-    user: 'lobatoSQL',
-    password: '1234',
+    user: 'aluno',
+    password: 'senacrs',
     host: '127.0.0.1'
   }
 };
