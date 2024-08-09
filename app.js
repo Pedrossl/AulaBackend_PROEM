@@ -7,6 +7,7 @@ import router from './router.js';
 // Registra as rotas na raiz da aplicação
 app.use(router);
 // Permite que o express entenda requisições com o corpo no formato JSON
+// Teste
 app.use(express.json());
 
 
